@@ -4,8 +4,6 @@ An interactive **Coffee Sales Dashboard** built in Microsoft Excel to analyze co
 
 ## 📊 Dashboard Preview
 
-> Add your dashboard screenshot here.
-
 ![Dashboard Screenshot](Screenshot%202026-07-06%20174842.png)
 
 
